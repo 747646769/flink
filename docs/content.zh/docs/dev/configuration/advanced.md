@@ -68,7 +68,7 @@ Flink 发行版默认包含执行 Flink SQL 任务的必要 JAR 文件（位于 
 
 有关更多细节，请查阅如何[连接外部系统]({{< ref "docs/connectors/table/overview" >}})。
 
-### Table Planner 和 Table Planner 加载器
+### Table Planner 和 Table Planner Loader
 
 从 Flink 1.15 开始，发行版包含两个 planner:
 
